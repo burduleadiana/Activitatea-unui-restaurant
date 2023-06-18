@@ -1,0 +1,7 @@
+Detalii comanda:
+ID: 2
+Data: 31.05.2023 10:23:41
+Produse:
+- Lasagna
+Total: 28RON
+Status: New

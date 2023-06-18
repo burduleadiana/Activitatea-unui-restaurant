@@ -1,0 +1,8 @@
+Detalii comanda:
+ID: 1
+Data: 31.05.2023 15:55:11
+Produse:
+- Paste
+- Lasagna
+Total: 50RON
+Status: New

@@ -1,0 +1,14 @@
+C:\Users\Diana\Desktop\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\Diana\Desktop\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\Diana\Desktop\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\Diana\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diana\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.AdaugaProdus.resources
+C:\Users\Diana\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.GestionareProduse.resources
+C:\Users\Diana\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.Principal.resources
+C:\Users\Diana\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\Diana\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\Diana\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\Diana\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\Diana\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.GestionareComenzi.resources

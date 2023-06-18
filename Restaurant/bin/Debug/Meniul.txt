@@ -1,0 +1,5 @@
+Meniul
+1	Paste	20	Paste carbonara	30	apa, paste, sare	
+2	Ciorba	30	Ciorba de perisoare	20	apa, legume, carne	
+3	Papanasi	35	Papanasi cu dulceata	20	faina, zahar, dulceata	
+4	Piure	15	Piure de cartofi	30	cartofi, apa, unt, sare, lapte	
